@@ -1,5 +1,7 @@
 # Wayback Machine Domain Auditor
 
+**Note: This was vibe coded with Gemini**
+
 This script queries the Wayback Machine's CDX API to find archived snapshots of a specific domain within a user-defined date range. It filters for successful captures (HTTP 200) and exports the results to a CSV file for auditing and analysis.
 
 ---
