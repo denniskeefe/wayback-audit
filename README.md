@@ -71,4 +71,3 @@ The generated CSV follows this format:
 
 ---
 
-Would you like me to help you add more advanced filtering, such as excluding specific subdirectories or file types?
